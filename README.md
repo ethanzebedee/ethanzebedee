@@ -110,17 +110,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-
-  <p></p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanzebedee&theme=dark&hide_border=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ethanzebedee&theme=dark&hide_border=true" />
-
-  <p></p>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&theme=dark&hide_border=true&layout=compact" />
 </div>
 
 <br>
