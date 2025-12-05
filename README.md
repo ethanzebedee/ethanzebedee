@@ -8,8 +8,6 @@
 
 <br>
 
-# Hey, I'm Ethan 👋
-
 💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs  
 🚀 Passionate about AI, App development, performance optimization and user experience  
 🏄‍♂️ Former Vice-Captain of Ireland's largest university sports club  
@@ -114,6 +112,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ethanzebedee&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=ethanzebedee&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)
+
+<br>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ethanzebedee&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph")
 
 ---
 
