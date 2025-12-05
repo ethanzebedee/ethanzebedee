@@ -1,7 +1,7 @@
 # Hey, I'm Ethan 👋
 
-💻 **Associate Software Engineer** building impactful web applications  
-🚀 Passionate about performance optimization and user experience  
+💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs
+🚀 Passionate about AI, App development, performance optimization and user experience  
 🏄‍♂️ Former Vice-Captain of Ireland's largest university sports club  
 🇮🇪 Based in Dublin, Ireland (Open to relocation)
 
@@ -23,26 +23,25 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**API Development:**  
+**APIs:**  
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+**Cloud and DevOps:**  
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 
 **AI:**  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
-
-**CI/CD:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
-**Cloud System:**  
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 **Data Science:**  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
@@ -55,7 +54,6 @@
 
 **Frameworks:**  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -69,14 +67,18 @@
 
 ## 💼 What I'm Working On:
 
-- Building healthcare and insurance tech solutions that save millions annually
+- Building full-stack healthcare/insurance platforms from UI → API → DB that save millions annually
+- Designing intuitive React/Next.js interfaces for complex data-driven tools
 - Optimizing APIs and algorithms for performance (40-50% improvements)
+- Architecting backend microservices and event-driven pipelines
 - Leading training initiatives and cross-functional collaboration
 - Machine learning models for predictive healthcare analytics
+- Building full-stack healthcare/insurance platforms from UI → API → DB
 
 ## 🏆 Achievements:
 
-- 💰 Developed applications resulting in **~$6M annual savings**
+- ⚡ Designed and developed full-stack systems that tripled claim processing efficiency
+- 💰 Built UI + API components for apps generating **~$6M annual savings**
 - ⚡ Tripled insurance claim processing efficiency (300% increase)
 - 🎯 Won 1st Place + Alice Perry Medal in 2017 Apps4Gaps Competition
 - 👥 Led Ireland's largest university sports club (1,500+ members)
