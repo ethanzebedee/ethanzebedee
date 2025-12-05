@@ -52,11 +52,11 @@ C • C++ • Scala 3 • Erlang • Processing
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ethan@hammond.ie)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ethanzebedee)
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanzebedee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![](https://github-readme-stats.vercel.app/api?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ethanzebedee&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
