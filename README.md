@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Ethan%20Hammond&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20|%20AI%20%26%20Cloud%20Developer&descAlignY=60&descAlign=50" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=35&duration=2600&pause=1600&color=1E90FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ethan+Hammond+👋;Fullstack+Engineer+%7C+AI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
+</div>
+
+<br>
+
 # Hey, I'm Ethan 👋
 
 💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs  
@@ -96,16 +106,8 @@
 
 ## 📫 Connect With Me:
 
-<div align="center">
-  <a href="https://linkedin.com/in/ethanzebedee">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ethanzebedee">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanzebedee)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ethanzebedee)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
@@ -120,3 +122,7 @@
 ---
 
 ⚡ **Fun fact:** I'm a certified waterski instructor and lifeguard who once managed events for 400+ people!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
+</p>
