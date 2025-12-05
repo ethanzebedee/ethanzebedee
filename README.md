@@ -9,9 +9,12 @@
 
 <br>
 
-💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs  
-🚀 Passionate about AI, App development, performance optimization and user experience  
-🏄‍♂️ Former Vice-Captain of Ireland's largest university sports club  
+💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs
+
+🚀 Passionate about AI, App development, performance optimization and user experience
+
+🏄‍♂️ Former Vice-Captain of Ireland's largest university sports club
+
 🇮🇪 Based in Dublin, Ireland (Open to relocation)
 
 ## 🔧 Tech Stack:
@@ -137,7 +140,7 @@ Foundation Coding Certificate, Cambridge Coding Academy
 
 ---
 
-⚡ **Fun fact:** I'm a certified waterski instructor and lifeguard who once managed events for 400+ people!
+⚡ **Fun fact:** I'm a certified waterski instructor and lifeguard who once managed events for 1000+ people!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
