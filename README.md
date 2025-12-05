@@ -76,32 +76,37 @@
 
 ## 💼 What I'm Working On:
 
-- Building full-stack healthcare/insurance platforms from UI → API → DB that save millions annually
-- Designing intuitive React/Next.js interfaces for complex data-driven tools
-- Optimizing APIs and algorithms for performance (40-50% improvements)
-- Architecting backend microservices and event-driven pipelines
-- Leading training initiatives and cross-functional collaboration
-- Machine learning models for predictive healthcare analytics
+Building full-stack healthcare/insurance platforms from UI → API → DB that save millions annually
+
+Designing intuitive React/Next.js interfaces for complex data-driven tools
+
+Optimizing APIs and algorithms for performance (40-50% improvements)
+
+Architecting backend microservices and event-driven pipelines
+
+Leading training initiatives and cross-functional collaboration
+
+Machine learning models for predictive healthcare analytics
 
 ## 🏆 Achievements:
 
-- ⚡ Designed and developed full-stack systems that tripled claim processing efficiency
-- 💰 Built UI + API components for apps generating **~$6M annual savings**
-- ⚡ Tripled insurance claim processing efficiency (300% increase)
-- 🎯 Won 1st Place + Alice Perry Medal in 2017 Apps4Gaps Competition
-- 👥 Led Ireland's largest university sports club (1,500+ members)
+⚡ Designed and developed full-stack systems that tripled claim processing efficiency
+💰 Built UI + API components for apps generating **~$6M annual savings**
+⚡ Tripled insurance claim processing efficiency (300% increase)
+🎯 Won 1st Place + Alice Perry Medal in 2017 Apps4Gaps Competition
+👥 Led Ireland's largest university sports club (1,500+ members)
 
 ## 🧑‍🎓 Education:
 
-- BSc Computer Science (Second Class Honours), University College Dublin
-- Irish Leaving Certificate, Institute of Education Dublin
-- Diploma in Game Design, Pulse College Dublin
+BSc Computer Science (Second Class Honours), University College Dublin
+Irish Leaving Certificate, Institute of Education Dublin
+Diploma in Game Design, Pulse College Dublin
 
 ## 📜 Certifications:
 
-- Generative AI Learning Certificate, Optum Tech University
-- Early University Entrance Program in Engineering, Dublin College University
-- Foundation Coding Certificate, Cambridge Coding Academy
+Generative AI Learning Certificate, Optum Tech University
+Early University Entrance Program in Engineering, Dublin College University
+Foundation Coding Certificate, Cambridge Coding Academy
 
 ## 📫 Connect With Me:
 
