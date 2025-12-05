@@ -138,6 +138,10 @@ Foundation Coding Certificate, Cambridge Coding Academy
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ethanzebedee&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph")
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=ethanzebedee&label=Profile%20Views&color=430680&style=flat")
+
 ---
 
 ⚡ **Fun fact:** I'm a certified waterski instructor and lifeguard who once managed events for 1000+ people!
