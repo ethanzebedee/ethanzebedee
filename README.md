@@ -1,6 +1,6 @@
 # Hey, I'm Ethan 👋
 
-💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs
+💻 **Fullstack Software Engineer** building impactful web applications, scalable backend systems and polished, high-performance UIs  
 🚀 Passionate about AI, App development, performance optimization and user experience  
 🏄‍♂️ Former Vice-Captain of Ireland's largest university sports club  
 🇮🇪 Based in Dublin, Ireland (Open to relocation)
