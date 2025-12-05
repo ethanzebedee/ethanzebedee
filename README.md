@@ -110,14 +110,22 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-    ![](https://nirzak-streak-stats.vercel.app/?user=ethanzebedee&theme=dark&hide_border=true)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+
+  <p></p>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ethanzebedee&theme=dark&hide_border=true" />
+
+  <p></p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzebedee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
 </div>
 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=ethanzebedee&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=ethanzebedee&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15")
 
 <br>
 
