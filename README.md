@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Ethan%20Hammond&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20|%20AI%20%26%20Cloud%20Developer&descAlignY=60&descAlign=50" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=200&section=header&text=Ethan%20Hammond&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=35&duration=2600&pause=1600&color=1E90FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ethan+Hammond+👋;Fullstack+Engineer+%7C+AI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=2800&pause=2000&color=00B3FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ethan+Hammond+%F0%9F%8F%8E%EF%B8%8F;Welcome+to+my+Profile!;Android+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 <br>
 
