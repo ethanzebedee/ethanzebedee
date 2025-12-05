@@ -73,7 +73,6 @@
 - Architecting backend microservices and event-driven pipelines
 - Leading training initiatives and cross-functional collaboration
 - Machine learning models for predictive healthcare analytics
-- Building full-stack healthcare/insurance platforms from UI → API → DB
 
 ## 🏆 Achievements:
 
