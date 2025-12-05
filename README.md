@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=200&section=header&text=Ethan%20Hammond&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=200&section=header&text=Ethan%20Hammond&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=2800&pause=2000&color=00B3FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ethan+Hammond+%F0%9F%8F%8E%EF%B8%8F;Welcome+to+my+Profile!;Android+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=2800&pause=2000&color=00B3FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ethan+Hammond;Welcome+to+my+Profile!;Fullstack+Developer" alt="Typing SVG" />
 </div>
 
 <br>
